@@ -1,7 +1,7 @@
 const getWeatherBtn = document.getElementById('get-weather')
 const search = document.getElementById('get-city')
 
-const apiKey = '78de6a7fc9f3d64b8af6cc331977a4dc'
+const apiKey = 'key'
 
 
 let cityWeather;
